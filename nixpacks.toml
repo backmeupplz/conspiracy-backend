@@ -1,2 +1,2 @@
 [start]
-cmd = "yarn distribute"
+cmd = "yarn serve"
